@@ -5,7 +5,7 @@ import { catchAsync } from "../../utils/catchAsync";
 import { sendResponse } from "../../utils/sendResponse";
 import { verifyToken } from "../../utils/jwt";
 import { envVars } from "../../config/env";
-import { ReceiverServices } from "./receiver.service";
+import { ReceiverServices } from "./customer.service";
 
 /* eslint-disable @typescript-eslint/no-explicit-any */
 

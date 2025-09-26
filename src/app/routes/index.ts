@@ -4,7 +4,7 @@ import { AuthRoutes } from "../modules/auth/auth.route";
 import { ParcelRoutes } from "../modules/parcel/parcel.route";
 import { SenderRoutes } from "../modules/Vendor/vendor.routes";
 import { AdminRoutes } from "../modules/ADMIN/admin.route";
-import { ReceiverRoutes } from "../modules/RECEIVER/receiver.route";
+import { ReceiverRoutes } from "../modules/Customer/customer.route";
 import { ContactRoutes } from "../modules/Contact/contact.routes";
 
 
